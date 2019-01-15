@@ -1,5 +1,5 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/igun997/unilib)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/igun997/unilib/releases/)
 
 # UNIKOM PHP Library
 Library ini dipakai untuk Crawler di situ https://mahasiswa.unikom.ac.id, bisa dikombinasikan dengan Sistem Informasi yang akan kalian buat untuk tugas akhir atau pun yang tugas akhirnya bertempat di UNIKOM sendiri.
