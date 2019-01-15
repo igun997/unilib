@@ -1,4 +1,4 @@
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/igun997/unilib)
 
 # UNIKOM PHP Library
 Library ini dipakai untuk Crawler di situ https://mahasiswa.unikom.ac.id, bisa dikombinasikan dengan Sistem Informasi yang akan kalian buat untuk tugas akhir atau pun yang tugas akhirnya bertempat di UNIKOM sendiri.
