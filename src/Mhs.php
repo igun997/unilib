@@ -1,6 +1,7 @@
 <?php
 namespace Unilib;
-require 'vendor/autoload.php';
+use GuzzleHttp;
+use \simple_html_dom;
 require 'vendor/simple-html-dom/simple-html-dom/simple_html_dom.php';
 /**
 * UNIKOM Library Pack
