@@ -1,7 +1,7 @@
 <?php
 namespace Unilib;
-require '../../../../vendor/autoload.php';
-require '../../../../vendor/simple-html-dom/simple-html-dom/simple_html_dom.php';
+require './vendor/autoload.php';
+require './vendor/simple-html-dom/simple-html-dom/simple_html_dom.php';
 /**
 * UNIKOM Library Pack
 * @link https://www.github.com/igun997/unikomlib
