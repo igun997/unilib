@@ -1,7 +1,7 @@
 <?php
+namespace Unilib;
 require '../../../../vendor/autoload.php';
 require '../../../../vendor/simple-html-dom/simple-html-dom/simple_html_dom.php';
-namespace Unilib;
 /**
 * UNIKOM Library Pack
 * @link https://www.github.com/igun997/unikomlib
@@ -10,7 +10,7 @@ namespace Unilib;
 * @copyright  (c) 2019 - 2020 Indra Gunanda
 * @license    http://www.gnu.org/licenses/lgpl-3.0.txt GNU LESSER GENERAL PUBLIC LICENSE
 **/
-class Unilib
+class Mhs
 {
   public $option;
   public $data;

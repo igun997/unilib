@@ -6,6 +6,7 @@
     "simple-html-dom/simple-html-dom": "^1.5",
     "guzzlehttp/guzzle": "~6.0"
   },
+  "license": "MIT",
   "autoload": {
     "psr-4": {
         "Unilib\\" : "src/"
