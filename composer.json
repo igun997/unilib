@@ -7,8 +7,8 @@
     "guzzlehttp/guzzle": "~6.0"
   },
   "autoload": {
-    "psr-0": {
-      "Unilib": "src/"
+    "psr-4": {
+        "Unilib\\" : "src/"
     }
   },
   "repositories": [{
