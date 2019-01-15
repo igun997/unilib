@@ -1,5 +1,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GitHub release](https://img.shields.io/github/release/igun997/unilib.svg)](https://GitHub.com/igun997/unilib/releases/)
+[![HitCount](http://hits.dwyl.io/igun997/badges.svg)](http://hits.dwyl.io/igun997/badges)
 
 
 # UNIKOM PHP Library
