@@ -12,7 +12,7 @@ $init = new Unilib(["username"=>"XXXX","password"=>"XXXX"]);
 ```
 lalu ambil data yang kamu perlukan sebagai contoh saya akan mengambil data profile yang beralamat di https://mahasiswa.unikom.ac.id/profile maka sintaks nya sebagai berikut
 ```php
-$init = new Unilib(["username"=>"XXXX","password"=>"XXXX"]);
+$init = new Unilib\Mhs(["username"=>"XXXX","password"=>"XXXX"]);
 $res = $init->get('profile','div[class=inputbox]');
 //div[class=inputbox] adalah tag HTML berserta class nya  sebagai contoh :
 //<div class='inputbox'>10515211</div>
