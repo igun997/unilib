@@ -8,7 +8,7 @@ Library ini dipakai untuk Crawler di situ https://mahasiswa.unikom.ac.id, bisa d
 # Cara Pemakaian
 Deklarasikan terlebih dahulu class dari package
 ```php
-$init = new Unilib(["username"=>"XXXX","password"=>"XXXX"]);
+$init = new Unilib\Mhs(["username"=>"XXXX","password"=>"XXXX"]);
 ```
 lalu ambil data yang kamu perlukan sebagai contoh saya akan mengambil data profile yang beralamat di https://mahasiswa.unikom.ac.id/profile maka sintaks nya sebagai berikut
 ```php
