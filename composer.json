@@ -1,4 +1,6 @@
 {
+  "name": "igun997/unilib",
+   "description": "UNIKOM PHP Library Package",
   "require": {
     "simple-html-dom/simple-html-dom": "^1.5",
     "guzzlehttp/guzzle": "~6.0"
